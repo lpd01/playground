@@ -1,0 +1,13 @@
+{
+    "env": {
+        "pwd": "Test1234",
+        "uid":"5BjWyqtpbR@gmail.com",
+        "uid_complete":"FuSBkUrbmz@gmail.com",
+        "uid_home":"testfeb28c@gmail.com",
+        "pwd_home":"Test1234!",
+        "pwd_bad": "bad",
+        "baseUrl" : "https://onboarding.sleepio.com"
+      }
+      
+}
+
